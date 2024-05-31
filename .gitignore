@@ -2,3 +2,5 @@
 .DS_Store
 logs/browserstack-plugin.log
 /.idea
+/target
+logs/browserstack-javaagent.log
